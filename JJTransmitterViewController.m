@@ -1,5 +1,5 @@
 //
-//  JJFirstViewController.m
+//  JJTransmitterViewController.m
 //  HideAndBeak
 //
 //  Created by Jonathan Jayet on 26/01/2014.
